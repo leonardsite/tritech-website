@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "三达集团有限公司",
+    "description": "城市基础设施、水务与环保一站式解决方案提供商。新加坡交易所上市公司。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于我们",
+    "aboutSub": {
+      "profile": "公司简介",
+      "philosophy": "企业理念",
+      "history": "发展历程"
+    },
+    "organization": "组织架构",
+    "orgSub": {
+      "structure": "集团架构",
+      "board": "董事会",
+      "personnel": "核心管理层"
+    },
+    "engineering": "工程服务",
+    "engSub": {
+      "overview": "概览",
+      "smartUrban": "智慧城市开发",
+      "waterEnv": "水务与环保",
+      "projects": "重点项目"
+    },
+    "investor": "投资者关系",
+    "investorSub": {
+      "overview": "概览",
+      "financial": "财务业绩",
+      "annual": "年度报告",
+      "stock": "股票信息",
+      "announcements": "公告"
+    },
+    "news": "新闻",
+    "careers": "加入我们",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "tagline": "独特的一站式解决方案提供商",
+    "title": "城市基础设施、水务与环境技术",
+    "subtitle": "自2008年在新加坡交易所上市。推动亚太地区的智慧城市发展和水务技术。",
+    "cta": "了解更多",
+    "ctaSecondary": "投资者关系"
+  },
+  "home": {
+    "whoWeAre": {
+      "title": "关于三达",
+      "founded": "创立于1999年",
+      "listed": "2008年新交所上市",
+      "description": "独特的智慧城市发展与水务环保一体化服务提供商。",
+      "innovation": "以创新技术为根基，凭借技术优势和竞争力赢得市场。"
+    },
+    "business": {
+      "title": "业务板块",
+      "smartUrban": {
+        "title": "智慧城市开发",
+        "description": "提供包括物联网、数据分析、云计算、4D模拟和AI数字平台在内的综合智慧城市开发服务。"
+      },
+      "waterEnv": {
+        "title": "水务与环保",
+        "description": "领先的水务相关业务，提供膜产品、智能技术、工程解决方案和环保服务。"
+      }
+    },
+    "innovation": {
+      "title": "创新驱动 科技引领",
+      "subtitle": "我们的创新中心运用大数据、物联网和人工智能，提供前沿解决方案。"
+    },
+    "stats": {
+      "years": "25+年",
+      "yearsLabel": "卓越历程",
+      "projects": "100+",
+      "projectsLabel": "重大项目",
+      "staff": "300+",
+      "staffLabel": "专业人才",
+      "countries": "4+",
+      "countriesLabel": "覆盖国家"
+    },
+    "news": {
+      "title": "新闻与公告",
+      "viewAll": "查看所有新闻"
+    },
+    "gallery": {
+      "title": "产品与展示"
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "profile": {
+      "title": "公司简介",
+      "description": "三达集团有限公司是1999年在新加坡成立的本土企业。在创始人王晓宁博士及其团队的不懈努力下，三达已从一家小型工程服务公司发展成为覆盖亚太地区的企业。"
+    },
+    "philosophy": {
+      "title": "企业理念",
+      "description": "集团致力于发现新价值，并将其转化为社会价值。作为追求时代生活品质的商业生产者，我们创造与公共利益相容的最高保真度技术。"
+    }
+  },
+  "organization": {
+    "title": "组织架构",
+    "structure": "集团架构",
+    "board": "董事会",
+    "personnel": "核心管理层"
+  },
+  "engineering": {
+    "title": "工程服务",
+    "smartUrban": {
+      "title": "智慧城市开发",
+      "items": [
+        "物联网、数据采集、数据分析、云计算与4D模拟",
+        "城市发展的规划、设计、咨询和管理",
+        "基于AI的数据分析系统（ADAS）",
+        "GEOFEA岩土有限元分析软件",
+        "隧道与基坑监测系统（TEMS）"
+      ]
+    },
+    "waterEnv": {
+      "title": "水务与环境保护",
+      "items": [
+        "膜法水处理系统（超滤、MBR、反渗透）",
+        "实时水质监测",
+        "海水淡化（正渗透技术）",
+        "VaVie碱性水产品",
+        "环保工程服务"
+      ]
+    }
+  },
+  "investor": {
+    "title": "投资者关系",
+    "stockCode": "股票代码",
+    "exchange": "交易所",
+    "financial": "财务业绩",
+    "annual": "年度报告",
+    "announcements": "公告"
+  },
+  "news": {
+    "title": "新闻与公告",
+    "readMore": "阅读更多"
+  },
+  "careers": {
+    "title": "加入我们",
+    "subtitle": "加入我们的专业创新团队",
+    "description": "我们始终在寻找有才华和有奉献精神的人才加入我们不断壮大的团队。如果您和我们一样热衷于创新和追求卓越，欢迎您探索与我们合作的职业机会。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "singapore": {
+      "title": "新加坡（总部）",
+      "company": "三达集团有限公司",
+      "address": "31 Changi South Ave 2, Tritech Building #04-00, Singapore 486478",
+      "tel": "+65 6848 2567",
+      "fax": "+65 6848 2568",
+      "email": "general@tritech.com.sg"
+    },
+    "china": {
+      "title": "中国青岛",
+      "company": "三达环保集团有限公司",
+      "address": "中国青岛市西海岸新区民丰路188号 邮编266400",
+      "tel": "+86 532 8318 9333",
+      "email": "tritech@tritech.com.sg"
+    },
+    "form": {
+      "title": "发送消息",
+      "name": "姓名",
+      "email": "电子邮箱",
+      "subject": "主题",
+      "message": "消息内容",
+      "submit": "发送消息"
+    }
+  },
+  "footer": {
+    "description": "城市基础设施、水务与环保一站式解决方案提供商。新交所凯利板上市（股票代码：5G9）。",
+    "quickLinks": "快速链接",
+    "services": "服务",
+    "connect": "联系方式",
+    "copyright": "版权所有 三达集团有限公司",
+    "privacy": "隐私政策",
+    "disclaimer": "免责声明",
+    "sitemap": "网站地图"
+  },
+  "common": {
+    "learnMore": "了解更多",
+    "viewAll": "查看全部",
+    "backToTop": "返回顶部",
+    "language": "语言",
+    "darkMode": "深色模式",
+    "lightMode": "浅色模式"
+  }
+}

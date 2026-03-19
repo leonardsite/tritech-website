@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "Tritech Group Limited",
+    "description": "A Unique Urban Infrastructure, Water & Environmental One Stop Solution Provider. Listed on SGX Singapore."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "aboutSub": {
+      "profile": "Corporate Profile",
+      "philosophy": "Philosophy",
+      "history": "Our History"
+    },
+    "organization": "Organization",
+    "orgSub": {
+      "structure": "Group Structure",
+      "board": "Board of Directors",
+      "personnel": "Key Personnel"
+    },
+    "engineering": "Engineering Services",
+    "engSub": {
+      "overview": "Overview",
+      "smartUrban": "Smart Urban Development",
+      "waterEnv": "Water & Environmental",
+      "projects": "Featured Projects"
+    },
+    "investor": "Investor Relations",
+    "investorSub": {
+      "overview": "Overview",
+      "financial": "Financial Results",
+      "annual": "Annual Reports",
+      "stock": "Stock Information",
+      "announcements": "Announcements"
+    },
+    "news": "News",
+    "careers": "Careers",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "tagline": "A Unique One Stop Solution Provider",
+    "title": "Urban Infrastructure, Water & Environmental Technology",
+    "subtitle": "Listed on SGX Singapore since 2008. Powering smart urban development and water technologies across Asia-Pacific.",
+    "cta": "Learn More",
+    "ctaSecondary": "Investor Relations"
+  },
+  "home": {
+    "whoWeAre": {
+      "title": "Who We Are",
+      "founded": "Founded in 1999",
+      "listed": "Listed on SGX in 2008",
+      "description": "A Unique One Stop Integrated Service Provider for Smart Urban Development and Water & Environmental Protection.",
+      "innovation": "Built on the foundation of innovative technologies, winning the market through technological advantages and competitiveness."
+    },
+    "business": {
+      "title": "Our Business",
+      "smartUrban": {
+        "title": "Smart Urban Development",
+        "description": "Integrated services for smart urban development including IoT, data analytics, cloud computing, 4D simulation, and AI digital platforms."
+      },
+      "waterEnv": {
+        "title": "Water & Environmental",
+        "description": "Leading water-related business providing membrane products, smart technologies, engineering solutions, and environmental protection services."
+      }
+    },
+    "innovation": {
+      "title": "Powered by Innovation, Driven by Technology",
+      "subtitle": "Our innovation centres leverage Big Data, IoT, and AI to deliver cutting-edge solutions."
+    },
+    "stats": {
+      "years": "25+ Years",
+      "yearsLabel": "of Excellence",
+      "projects": "100+",
+      "projectsLabel": "Major Projects",
+      "staff": "300+",
+      "staffLabel": "Professionals",
+      "countries": "4+",
+      "countriesLabel": "Countries"
+    },
+    "news": {
+      "title": "News & Announcements",
+      "viewAll": "View All News"
+    },
+    "gallery": {
+      "title": "Gallery & Products"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "profile": {
+      "title": "Corporate Profile",
+      "description": "Tritech Group Limited is a home grown enterprise established in Singapore in 1999. With the enduring effort from the founder Dr. Jeffrey Wang and his team of aspiring entrepreneurs, Tritech has grown from a small firm providing engineering services to a company with presence in the Asia-Pacific region."
+    },
+    "philosophy": {
+      "title": "Philosophy",
+      "description": "The Group strives to discover new value and crystallize it into value for society. As a business producer that pursues lifestyle quality for the times, we create technology at its highest fidelity compatible with the public good."
+    }
+  },
+  "organization": {
+    "title": "Organization",
+    "structure": "Group Structure",
+    "board": "Board of Directors",
+    "personnel": "Key Personnel"
+  },
+  "engineering": {
+    "title": "Engineering Services",
+    "smartUrban": {
+      "title": "Smart Urban Development",
+      "items": [
+        "IoT, data collection, data analytics, cloud computing & 4D simulation",
+        "Planning, design, consultancy and management of city development",
+        "AI-based Data Analytics System (ADAS)",
+        "GEOFEA Geotechnical Finite Element Software",
+        "Tunnelling and Excavation Monitoring System (TEMS)"
+      ]
+    },
+    "waterEnv": {
+      "title": "Water & Environmental Protection",
+      "items": [
+        "Membrane water treatment systems (UF, MBR, RO)",
+        "Real-time water quality monitoring",
+        "Seawater desalination (Forward Osmosis)",
+        "VaVie alkaline water products",
+        "Environmental protection engineering"
+      ]
+    }
+  },
+  "investor": {
+    "title": "Investor Relations",
+    "stockCode": "Stock Code",
+    "exchange": "Exchange",
+    "financial": "Financial Results",
+    "annual": "Annual Reports",
+    "announcements": "Announcements"
+  },
+  "news": {
+    "title": "News & Announcements",
+    "readMore": "Read More"
+  },
+  "careers": {
+    "title": "Careers",
+    "subtitle": "Join our team of professionals and innovators",
+    "description": "We are always looking for talented and dedicated individuals to join our growing team. If you share our passion for innovation and excellence, we welcome you to explore career opportunities with us."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "singapore": {
+      "title": "Singapore (Headquarters)",
+      "company": "Tritech Group Limited",
+      "address": "31 Changi South Ave 2, Tritech Building #04-00, Singapore 486478",
+      "tel": "+65 6848 2567",
+      "fax": "+65 6848 2568",
+      "email": "general@tritech.com.sg"
+    },
+    "china": {
+      "title": "Qingdao, China",
+      "company": "Tritech Environmental Group Co. Ltd.",
+      "address": "188 Minfeng Road, West Coast New Zone, Qingdao 266400, China",
+      "tel": "+86 532 8318 9333",
+      "email": "tritech@tritech.com.sg"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "A Unique Urban Infrastructure, Water & Environmental One Stop Solution Provider. Listed on SGX Catalist (Stock Code: 5G9).",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "connect": "Connect",
+    "copyright": "All Rights Reserved. Tritech Group Limited.",
+    "privacy": "Privacy Policy",
+    "disclaimer": "Disclaimer",
+    "sitemap": "Site Map"
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "backToTop": "Back to Top",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  }
+}

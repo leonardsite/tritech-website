@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "Tritech Group Limited",
+    "description": "Penyedia Penyelesaian Sehenti Infrastruktur Bandar, Air & Alam Sekitar yang Unik. Tersenarai di SGX Singapura."
+  },
+  "nav": {
+    "home": "Laman Utama",
+    "about": "Tentang Kami",
+    "aboutSub": {
+      "profile": "Profil Korporat",
+      "philosophy": "Falsafah",
+      "history": "Sejarah Kami"
+    },
+    "organization": "Organisasi",
+    "orgSub": {
+      "structure": "Struktur Kumpulan",
+      "board": "Lembaga Pengarah",
+      "personnel": "Kakitangan Utama"
+    },
+    "engineering": "Perkhidmatan Kejuruteraan",
+    "engSub": {
+      "overview": "Gambaran Keseluruhan",
+      "smartUrban": "Pembangunan Bandar Pintar",
+      "waterEnv": "Air & Alam Sekitar",
+      "projects": "Projek Terpilih"
+    },
+    "investor": "Hubungan Pelabur",
+    "investorSub": {
+      "overview": "Gambaran Keseluruhan",
+      "financial": "Keputusan Kewangan",
+      "annual": "Laporan Tahunan",
+      "stock": "Maklumat Saham",
+      "announcements": "Pengumuman"
+    },
+    "news": "Berita",
+    "careers": "Kerjaya",
+    "contact": "Hubungi Kami"
+  },
+  "hero": {
+    "tagline": "Penyedia Penyelesaian Sehenti yang Unik",
+    "title": "Infrastruktur Bandar, Air & Teknologi Alam Sekitar",
+    "subtitle": "Tersenarai di SGX Singapura sejak 2008. Menggerakkan pembangunan bandar pintar dan teknologi air di seluruh Asia-Pasifik.",
+    "cta": "Ketahui Lebih Lanjut",
+    "ctaSecondary": "Hubungan Pelabur"
+  },
+  "home": {
+    "whoWeAre": {
+      "title": "Siapa Kami",
+      "founded": "Ditubuhkan pada 1999",
+      "listed": "Tersenarai di SGX pada 2008",
+      "description": "Penyedia Perkhidmatan Bersepadu Sehenti yang Unik untuk Pembangunan Bandar Pintar dan Perlindungan Air & Alam Sekitar.",
+      "innovation": "Dibina atas asas teknologi inovatif, memenangi pasaran melalui kelebihan teknologi dan daya saing."
+    },
+    "business": {
+      "title": "Perniagaan Kami",
+      "smartUrban": {
+        "title": "Pembangunan Bandar Pintar",
+        "description": "Perkhidmatan bersepadu untuk pembangunan bandar pintar termasuk IoT, analitik data, pengkomputeran awan, simulasi 4D, dan platform digital AI."
+      },
+      "waterEnv": {
+        "title": "Air & Alam Sekitar",
+        "description": "Perniagaan air terkemuka yang menyediakan produk membran, teknologi pintar, penyelesaian kejuruteraan, dan perkhidmatan perlindungan alam sekitar."
+      }
+    },
+    "innovation": {
+      "title": "Dikuasakan oleh Inovasi, Dipacu oleh Teknologi",
+      "subtitle": "Pusat inovasi kami memanfaatkan Data Besar, IoT, dan AI untuk menyampaikan penyelesaian terkini."
+    },
+    "stats": {
+      "years": "25+ Tahun",
+      "yearsLabel": "Kecemerlangan",
+      "projects": "100+",
+      "projectsLabel": "Projek Utama",
+      "staff": "300+",
+      "staffLabel": "Profesional",
+      "countries": "4+",
+      "countriesLabel": "Negara"
+    },
+    "news": {
+      "title": "Berita & Pengumuman",
+      "viewAll": "Lihat Semua Berita"
+    },
+    "gallery": {
+      "title": "Galeri & Produk"
+    }
+  },
+  "about": {
+    "title": "Tentang Kami",
+    "profile": {
+      "title": "Profil Korporat",
+      "description": "Tritech Group Limited adalah perusahaan tempatan yang ditubuhkan di Singapura pada tahun 1999. Dengan usaha berterusan pengasas Dr. Jeffrey Wang dan pasukan usahawan beliau, Tritech telah berkembang dari firma kecil yang menyediakan perkhidmatan kejuruteraan kepada syarikat yang hadir di rantau Asia-Pasifik."
+    },
+    "philosophy": {
+      "title": "Falsafah",
+      "description": "Kumpulan berusaha untuk menemui nilai baru dan mengkristalkannya menjadi nilai untuk masyarakat. Sebagai pengeluar perniagaan yang mengejar kualiti gaya hidup untuk zaman ini, kami mencipta teknologi pada ketepatan tertinggi yang serasi dengan kebaikan awam."
+    }
+  },
+  "organization": {
+    "title": "Organisasi",
+    "structure": "Struktur Kumpulan",
+    "board": "Lembaga Pengarah",
+    "personnel": "Kakitangan Utama"
+  },
+  "engineering": {
+    "title": "Perkhidmatan Kejuruteraan",
+    "smartUrban": {
+      "title": "Pembangunan Bandar Pintar",
+      "items": [
+        "IoT, pengumpulan data, analitik data, pengkomputeran awan & simulasi 4D",
+        "Perancangan, reka bentuk, perundingan dan pengurusan pembangunan bandar",
+        "Sistem Analitik Data berasaskan AI (ADAS)",
+        "Perisian Elemen Terhingga Geoteknik GEOFEA",
+        "Sistem Pemantauan Terowong dan Penggalian (TEMS)"
+      ]
+    },
+    "waterEnv": {
+      "title": "Perlindungan Air & Alam Sekitar",
+      "items": [
+        "Sistem rawatan air membran (UF, MBR, RO)",
+        "Pemantauan kualiti air masa nyata",
+        "Penyahgaraman air laut (Osmosis Hadapan)",
+        "Produk air alkali VaVie",
+        "Kejuruteraan perlindungan alam sekitar"
+      ]
+    }
+  },
+  "investor": {
+    "title": "Hubungan Pelabur",
+    "stockCode": "Kod Saham",
+    "exchange": "Bursa",
+    "financial": "Keputusan Kewangan",
+    "annual": "Laporan Tahunan",
+    "announcements": "Pengumuman"
+  },
+  "news": {
+    "title": "Berita & Pengumuman",
+    "readMore": "Baca Lagi"
+  },
+  "careers": {
+    "title": "Kerjaya",
+    "subtitle": "Sertai pasukan profesional dan inovator kami",
+    "description": "Kami sentiasa mencari individu berbakat dan berdedikasi untuk menyertai pasukan kami yang semakin berkembang. Jika anda berkongsi semangat kami untuk inovasi dan kecemerlangan, kami mengalu-alukan anda untuk meneroka peluang kerjaya bersama kami."
+  },
+  "contact": {
+    "title": "Hubungi Kami",
+    "singapore": {
+      "title": "Singapura (Ibu Pejabat)",
+      "company": "Tritech Group Limited",
+      "address": "31 Changi South Ave 2, Tritech Building #04-00, Singapore 486478",
+      "tel": "+65 6848 2567",
+      "fax": "+65 6848 2568",
+      "email": "general@tritech.com.sg"
+    },
+    "china": {
+      "title": "Qingdao, China",
+      "company": "Tritech Environmental Group Co. Ltd.",
+      "address": "188 Minfeng Road, West Coast New Zone, Qingdao 266400, China",
+      "tel": "+86 532 8318 9333",
+      "email": "tritech@tritech.com.sg"
+    },
+    "form": {
+      "title": "Hantar Mesej",
+      "name": "Nama Penuh",
+      "email": "Alamat E-mel",
+      "subject": "Subjek",
+      "message": "Mesej",
+      "submit": "Hantar Mesej"
+    }
+  },
+  "footer": {
+    "description": "Penyedia Penyelesaian Sehenti Infrastruktur Bandar, Air & Alam Sekitar yang Unik. Tersenarai di SGX Catalist (Kod Saham: 5G9).",
+    "quickLinks": "Pautan Pantas",
+    "services": "Perkhidmatan",
+    "connect": "Hubungi",
+    "copyright": "Hak Cipta Terpelihara. Tritech Group Limited.",
+    "privacy": "Dasar Privasi",
+    "disclaimer": "Penafian",
+    "sitemap": "Peta Laman"
+  },
+  "common": {
+    "learnMore": "Ketahui Lebih Lanjut",
+    "viewAll": "Lihat Semua",
+    "backToTop": "Kembali ke Atas",
+    "language": "Bahasa",
+    "darkMode": "Mod Gelap",
+    "lightMode": "Mod Cerah"
+  }
+}
