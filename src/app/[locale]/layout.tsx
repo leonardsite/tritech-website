@@ -23,11 +23,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       template: `%s | ${t('title')}`,
     },
     description: t('description'),
+    metadataBase: new URL('https://tritech.com.sg'),
     openGraph: {
       title: t('title'),
       description: t('description'),
       siteName: 'Tritech Group Limited',
       type: 'website',
+      url: 'https://tritech.com.sg',
+      locale: locale,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: t('title'),
+      description: t('description'),
     },
   };
 }
